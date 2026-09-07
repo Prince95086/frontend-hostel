@@ -32,7 +32,7 @@ import StudentDetailsTable from "./admindash/Student";
 import CategoryComplaints from "./components/CategoryComplaints";
 import MyAccount from "./studentdash/MyAccount";
 import Setting from "./studentdash/Setting";
-import MessFeeRecord from "./admindash/messfeerecord";
+import MessFeeRecord from "./admindash/MessFeeRecord";
 import Dashbord from "./admindash/Dashbord";
 import CanteenFeeRecord from "./admindash/CanteenFeeRecord";
 import Studendatashow from "./admindash/Studentdatashow";
